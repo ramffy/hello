@@ -1,0 +1,157 @@
+<title>ram testing</title>
+<html>
+<body>
+
+<center>
+<h2 style="color:green">
+HERO ON THE LINE
+</h2>
+ <img src="test.jpg" alt="officemate" style="width:355px;height:268px">
+ <img src= "avatar.jpg" alt="cartoon" style="width:355px;height:268px">
+ <img src="onepiece.png" alt="officemate" style="width:355px;height:268px">
+
+<center>
+<p>
+<a href="http://www.facebook.com/html/">DIRI LANG TA MAG KITA</a>
+</p>
+</center>
+
+<br>
+
+<center>
+<video width="400" controls>
+  <source src="dance.mp4" type="video/mp4">
+  <source src="da" type="video/ogg">
+</video>
+
+<video width="400" controls>
+  <source src="dance2.mp4" type="video/mp4">
+  <source src="da" type="video/ogg">
+</video>
+
+<video width="400" controls>
+  <source src="dance3.mp4" type="video/mp4">
+  <source src="da" type="video/ogg">
+</video>
+
+<video width="400" controls>
+  <source src="dance4.mp4" type="video/mp4">
+  <source src="da" type="video/ogg">
+</video>
+
+
+<p>
+Just Visit our Web Site 
+<a href="http://www.wiredsystems.com/" target="_blank">SAYAW TO DA MAX</a>.
+</p>
+
+<br><br>
+
+
+<p style="color:orange">
+COMMENT PLEASE
+</p>
+
+<textarea rows="4" cols="50">
+
+</textarea>
+
+
+<br><br>
+
+
+<table border="0" style="width:100%">
+
+
+<h2 style="background-color:#000080;color:white">
+mark selma buing ka testing
+</h2>
+
+<h2 style="background-color:rgb(200,200,200);color:white">
+mark selma buing ka
+</h2>
+
+<h2 style="background-color:green;color:white">
+buing mark
+</h2>
+
+
+<br><br>
+
+
+<h2 style="background-color:#ff0066;color:white">
+mark buing testing 
+</h2>
+
+<h2 style="background-color:rgb(40,0,0);color:white">
+buing ka mark testing
+</h2>
+
+<h2 style="background-color:darkblue;color:pink">
+buing mark
+</h2>
+
+
+<br><br>
+
+
+<h2 style="background-color:#D3D3D3;color:green">
+buing mark
+</h2>
+
+<h2 style="background-color:rgb(211,211,211);color:green">
+dam mark
+</h2>
+
+<h2 style="background-color:lightgray;color:green">
+dam mark
+</h2>
+
+
+<br><br><br>
+
+
+<center>
+<form action="demo_form.asp">
+First name: <input type="text" name="FirstName" value=""><br>
+Last name: <input type="text" name="LastName" value=""><br>
+<input type="submit" value="Submit">
+</form>
+
+
+<br><br><br><br>
+
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+</style>
+</head>
+
+
+<h2>WANTED NI KILL THIS GUY</h2>
+<table style="width:100%">
+  <tr>
+    <th>Name:</th>
+    <td style="color:blue">
+    Mark Selma
+    </td>
+  </tr>
+  <tr>
+    <th rowspan="2">Telephone:</th>
+    <td>PLDT: 255 5282</td>
+  </tr>
+  <tr>
+    <td>GLOBE: 412 6771</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
